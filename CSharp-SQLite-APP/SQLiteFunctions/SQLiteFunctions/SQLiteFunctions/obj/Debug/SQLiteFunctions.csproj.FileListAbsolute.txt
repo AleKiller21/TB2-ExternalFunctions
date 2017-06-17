@@ -1,0 +1,16 @@
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\Data\test.db
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\SQLiteFunctions.exe.config
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\SQLiteFunctions.exe
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\SQLiteFunctions.pdb
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\EntityFramework.dll
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\System.Data.SQLite.dll
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\EntityFramework.xml
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\System.Data.SQLite.xml
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\obj\Debug\SQLiteFunctions.csprojResolveAssemblyReference.cache
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\obj\Debug\SQLiteFunctions.exe
+C:\Users\alefe\Unitec\15 Trimestre (XV)\Teoria Base Datos II\Proyectos\Proyecto 3\CSharp-SQLite-APP\SQLiteFunctions\SQLiteFunctions\SQLiteFunctions\obj\Debug\SQLiteFunctions.pdb
